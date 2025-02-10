@@ -16,14 +16,12 @@ global.owner = [
 ["573108625104", '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
 ["34636445091"], 
 ["34686630246"],
-["5218715746374"],
-["593968585383"],
-["595976126756"],
-["584125778026"],
-["593968263524"],
-["5215539356057"],
-["573012482597"],
-["51968374620"]]
+["34636445091"],
+["34636445091"],
+["34636445091"],
+["34636445091"],
+["34636445091"],
+["34636445091"]]
 
 global.mods = []
 global.prems = []
@@ -79,15 +77,11 @@ global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ["5VC9rvNx", "cfALv5"]
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = "GataDiosV3"
-global.fgkeysapi = "elrebelde21"
 global.itsrose = ["4b146102c4d500809da9d1ff"]
 global.baileys = "@whiskeysockets/baileys"
 global.apis = 'https://delirius-apiofc.vercel.app'
 
 global.APIs = { 
-nrtm: 'https://fg-nrtm.ddns.net',
-fgmods: 'https://api.fgmods.xyz',
-caliphdev: 'https://brat.caliphdev.com',
 xteam: 'https://api.xteam.xyz',
 dzx: 'https://api.dhamzxploit.my.id',
 lol: 'https://api.lolhuman.xyz',
@@ -96,6 +90,7 @@ neoxr: 'https://api.neoxr.my.id',
 zenzapis: 'https://api.zahwazein.xyz',
 akuari: 'https://api.akuari.my.id',
 akuari2: 'https://apimu.my.id',	
+fgmods: 'https://api.fgmods.xyz', 
 botcahx: 'https://api.botcahx.biz.id',
 ibeng: 'https://api.ibeng.tech/docs',	
 rose: 'https://api.itsrose.site',
@@ -104,7 +99,6 @@ xcoders : 'https://api-xcoders.site'
 },
    
 global.APIKeys = { 
-'https://api.fgmods.xyz': `${fgkeysapi}`,
 'https://api.xteam.xyz': `${keysxteam}`,
 'https://api.lolhuman.xyz': `${lolkeysapi}`,
 'https://api.neoxr.my.id': `${keysneoxr}`,	
@@ -132,9 +126,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["593968263524", 'Gata Dios 💻', 1], 
-["573147616444", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["5521989092076", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]]
+["573108625104", 'Gata Dios 💻', 1], 
+["34636445091", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+["34686630246", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -142,8 +136,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `╭ 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 🐈\n┃\n┃ » 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:\n┃ @globalgb\n┃\n┃ » 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n┃ @gatadios\n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @gata_dios\n╰━━━━━━━━•` //"𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
-global.author = ` ╭ 𝗚𝗮𝘁𝗮 𝗗𝗶𝗼𝘀 ✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ GataNina-Li\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕:\n ┃ @OficialGD\n ╰━━━━━━━━•` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = `🉐🤖 𝐆𝐨𝐤𝐮𝐁𝐨𝐭 🤖🉐` //"𝐆𝐨𝐤𝐮𝐁𝐨𝐭-𝙈𝘿 🐈"
+global.author = `神事㊫ 𝐁𝐲 𝐉𝐮𝐚𝐧𝟏𝟗𝟖𝟔 神事㊫` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -151,7 +145,7 @@ global.author = ` ╭ 𝗚𝗮𝘁𝗮 𝗗𝗶𝗼𝘀 ✓\n ┃\n ┃ » 𝙶�
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "5.0 (Beta)"
-global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
+global.gt = "🉐🤖 𝐆𝐨𝐤𝐮𝐁𝐨𝐭 🤖🉐"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -177,9 +171,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
-global.igfg = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿"
-global.nomorown = "593993684821"
+global.wm = "🉐🤖 𝐆𝐨𝐤𝐮𝐁𝐨𝐭 🤖🉐"
+global.igfg = "🉐🤖 𝐆𝐨𝐤𝐮𝐁𝐨𝐭 🤖🉐"
+global.nomorown = "0000"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -437,18 +431,16 @@ else return emotttt[results[0][0]];
 
 // IDs de canales
 global.ch = {
-ch1: '120363336642332098@newsletter',
-ch2: '120363160031023229@newsletter',
-ch3: '120363169294281316@newsletter',
-ch4: '120363203805910750@newsletter',
-ch5: '120363302472386010@newsletter',
-ch6: '120363301598733462@newsletter',
-ch7: '120363190430436554@newsletter',
-ch8: '120363374372683775@newsletter', 
-ch9: '120363167110224268@newsletter',
-ch10: '120363323882134704@newsletter',
-ch11: '120363370415738881@newsletter',
-ch12: '120363385983031660@newsletter',
+ch1: '120363195436416919@newsletter',
+ch2: '120363234822910701@newsletter',
+ch3: '120363263357160092@newsletter',
+ch4: '120363248027382788@newsletter',
+ch5: '120363195436416919@newsletter',
+ch6: '120363195436416919@newsletter',
+ch7: '120363195436416919@newsletter',
+ch8: '120363195436416919@newsletter', 
+ch9: '120363195436416919@newsletter',
+ch10: '120363195436416919@newsletter',
 }
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -459,24 +451,111 @@ console.log(chalk.redBright("Update 'config.js'"));
 import(`${file}?update=${Date.now()}`);
 })
 
-global.yt = 'https://youtube.com/@gatadios'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789'
-global.tk = 'https://www.tiktok.com/@gata_dios'
-global.ths = 'https://www.threads.net/@gata_dios'
-global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'https://wa.me/message/MEKOUFBEOG5ED1'
-global.all = 'https://www.atom.bio/GataBot'
-global.canal1 = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A'
-global.canal2 = 'https://whatsapp.com/channel/0029Va6yY0iLY6d6XDmqA03g'
-global.canal3 = 'https://whatsapp.com/channel/0029VaKn22pDJ6GwY61Ftn15'
-global.canal4 = 'https://t.me/globalgb'
+global.yt = 'https://youtube.com/'
+global.ig = 'https://www.instagram.com/'
+global.md = 'https://github.com/'
+global.fb = 'https://www.facebook.com/'
+global.tk = 'https://www.tiktok.com/'
+global.ths = 'https://www.threads.net/'
+global.paypal = 'https://paypal.me/'
+global.asistencia = 'https://wa.me/message/'
+global.all = 'https://www.atom.bio/'
+global.canal1 = 'https://chat.whatsapp.com/ELy0mvOw5JyLnHmwFY7j1K'
+global.canal2 = 'https://chat.whatsapp.com/ELy0mvOw5JyLnHmwFY7j1K'
+global.canal3 = 'https://chat.whatsapp.com/ELy0mvOw5JyLnHmwFY7j1K'
+global.canal4 = 'https://t.me/'
+global.soporteGB = "https://chat.whatsapp.com/BR4uITM6xeR8GAd8b2VXN6"
 
-global.soporteGB = "https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV"
-global.grupo1 = "https://chat.whatsapp.com/KNwcGS4PCEN5qjbHD5VDZM"
-global.grupo2 = "https://chat.whatsapp.com/LfcjmLcYax431QXBO0CSPk"
-global.grupo_collab1 = "https://chat.whatsapp.com/IO5k0UOF7hOJHE1eH3Fcxh"
-global.grupo_collab2 = "https://chat.whatsapp.com/GFsgXW2VD4I4FEOSlEg9wp"
-global.grupo_collab3 = "https://chat.whatsapp.com/H1TEBeMtFVv3RcayD1WfGU"
-global.grupo_collab4 = "https://chat.whatsapp.com/LuD3YzdOjH16LUwPPCVmL6"
+// Canales de WhatsApp 
+global.canal_whatsApp1 = "https://whatsapp.com/channel/0029VaSZsS14Y9lhQYCFvO0w" // Noticias Dragon Ball
+global.canal_whatsApp2 = "https://whatsapp.com/channel/0029VaQghZyAInPcWuTHOR3V" // Curiosidades Dragon Ball 
+global.canal_whatsApp3 = "https://whatsapp.com/channel/0029VaQkf7T0rGiORXhKqR0R" // Noticias juegos Dragon Ball 
+global.canal_whatsApp4 = "https://whatsapp.com/channel/0029Va9HjoqICVfqKkhmYD1e" // Mundo Dragon Ball bots
+
+// grupos de WhatsApp de dragon ball 
+global.grupo1 = "https://chat.whatsapp.com/LmDvJZWd0eQCzhR8lwJ5B4" //🔥🐉🐲亀𝔽𝕒𝕞𝕚𝕝𝕚𝕒 𝕊𝕒𝕚𝕪𝕒𝕟亀🐲🐉🔥
+global.grupo2 = "https://chat.whatsapp.com/LddDN9xDXcg15IuOirylqZ" // 🐉🐲亀𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕕𝕚𝕓𝕦𝕛𝕠𝕤亀🐲🐉
+global.grupo3 = "https://chat.whatsapp.com/L2vpoClRqYC6wsmGC0gFqS" // 🐉🐲🌍 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕃𝕖𝕘𝕖𝕟𝕕𝕤 🌍🐲🐉
+global.grupo4 = "https://chat.whatsapp.com/EaTmnGSAX3pH06Dl7MRzmV" //🐉🐲亀𝕍𝕚𝕕𝕖𝕠𝕤 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝亀🐲🐉
+global.grupo5 = "https://chat.whatsapp.com/K1FSWdgwuzTL1z08NVYJNw" //🐲🐉𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕊𝕥𝕚𝕔𝕜𝕖𝕣𝕤🐉🐲
+global.grupo6 = "https://chat.whatsapp.com/GX6QQjlGEcYAGz823ZUpfI" //📶🐲🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕖𝕟𝕔𝕦𝕖𝕤𝕥𝕒𝕤 🐉🐲📶
+global.grupo7 = "https://chat.whatsapp.com/BhXwjZVP0Ae9VU4pHqXATS" // 🐉🐲𝔽𝕒𝕟𝕤 𝔻𝕖 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 ℤ 𝕂𝕒𝕚🐲🐉
+global.grupo8 = "https://chat.whatsapp.com/JXVf0iaQhuvE7uQCE8QSym" // 🐉🐲 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 ℝ𝕠𝕝 🐲🐉
+global.grupo9 = "https://chat.whatsapp.com/ELy0mvOw5JyLnHmwFY7j1K" // 🌍🐉 ℙ𝕠𝕨𝕖𝕣 𝕆𝕗 𝔾𝕠𝕕𝕤 🐉🌍
+global.grupo10 = "https://chat.whatsapp.com/LCF5v7bb9dN8lGOrY9OlFR" // 🐉🐲𝕍𝕚𝕝𝕝𝕒𝕟𝕠𝕤 𝕕𝕖 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝🐲🐉
+global.grupo11 = "https://chat.whatsapp.com/Hq0VCaXqGaU40P89HmPuni" // 🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕏𝕖𝕟𝕠𝕧𝕖𝕣𝕤𝕖 🐉
+global.grupo12 = "https://chat.whatsapp.com/KJcE87Yb8ZP7WDiww8UDkY" // 🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝔽𝕠𝕣𝕥𝕟𝕚𝕥𝕖 🐉
+global.grupo13 = "https://chat.whatsapp.com/GEj9B5TlTvoIC6wBLJ71UU" // 🐲🐉𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 ℤ 𝔻𝕠𝕜𝕜𝕒𝕟 𝕓𝕒𝕥𝕥𝕝𝕖🐲🐉
+global.grupo14 = "https://chat.whatsapp.com/EJFl28xgwLeEhIQxriWiuZ" // 🌍🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕤𝕡𝕒𝕣𝕜𝕚𝕟𝕘 𝕫𝕖𝕣𝕠 🐉🎮🌍
+global.grupo15 = "https://chat.whatsapp.com/JbIgLHQuvue7hItxhng9nN" // 🌍🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝕓𝕒𝕝𝕝 𝕜𝕒𝕜𝕒𝕣𝕠𝕥 🐉🎮🌍
+global.grupo16 = "https://chat.whatsapp.com/KljiSB549Xc7HXXIzVPFat" // 🌍🎮🐉 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝔹𝕦𝕕𝕠𝕜𝕒𝕚 𝕋𝕖𝕟𝕜𝕒𝕚𝕔𝕙𝕚 🐉 🎮🌍
+global.grupo17 = "https://chat.whatsapp.com/LUKhODoKfqrC0uVKqMdfu4" // 🐉🎮𝔻ℝ𝔸𝔾𝕆ℕ 𝔹𝔸𝕃𝕃 𝔽𝕀𝔾𝕋ℍ𝔼ℝℤ🎮🐉
+
+//grupos frikis
+global.grupo_friki1 = "https://chat.whatsapp.com/ChQubdKdYav2XpohU8Vs3R" // 亀🇪🇸 𝔽𝕒𝕟𝕤 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 🇪🇸亀
+global.grupo_friki2 = "https://chat.whatsapp.com/Bjf43ZD8ZlZBCWE0Yv3jIX" // 🌍⚔️🛡️ 𝑭𝒂𝒏𝒔 𝒅𝒆 𝒂𝒕𝒂𝒒𝒖𝒆 𝒂 𝒍𝒐𝒔 𝒕𝒊𝒕𝒂𝒏𝒆𝒔 ⚔️🛡️🌍 
+global.grupo_friki3 = "https://chat.whatsapp.com/EGR7UJ4mvjMD0hc0ZoAxwI" // 🌍🤖 𝑫𝒆𝒔𝒄𝒂𝒓𝒈𝒂 𝒃𝒐𝒕𝒔 - 𝑹𝒆𝒅𝒆𝒔 𝒔𝒐𝒄𝒊𝒂𝒍𝒆𝒔 🤖🌍
+global.grupo_friki4 = "https://chat.whatsapp.com/CjPAAmdWQzO07yzPoypr6O" // 🌍💪🦲 𝑶𝒏𝒆 𝒑𝒖𝒏𝒄𝒉 𝒎𝒂𝒏 🦲💪🌍 
+global.grupo_friki5 = "https://chat.whatsapp.com/LE7qPMXoSMH5Rh40R8aPlE" // 𝗗𝗿𝗮𝗴𝗼𝗶 𝗯𝗼𝗹𝗮
+global.grupo_friki6 = "https://chat.whatsapp.com/J0vzttZbKXqKeUZPj0fUYa" // 🌍🎭🐻 𝑩𝒍𝒆𝒂𝒄𝒉 🐻🎭🌍
+global.grupo_friki7 = "https://chat.whatsapp.com/IIH75WjAuzhBSrd05wFsgV" // 🌍⚔️🗡️ 𝑲𝒊𝒍𝒍 𝒍𝒂 𝒌𝒊𝒍𝒍 🗡️⚔️🌍
+global.grupo_friki8 = "https://chat.whatsapp.com/By1GlKQ5yLQAYYxhTR8t9N" // 🌍🃏♣️ 𝑭𝒂𝒏𝒔 𝒅𝒆 𝑲𝒂𝒌𝒆𝒈𝒖𝒓𝒖𝒊 ♣️🃏🌍
+global.grupo_friki9 = "https://chat.whatsapp.com/CRYP316MujxKFYiIHe9ZEx" // 🌍😺🐼 𝑭𝒂𝒏𝒔 𝒅𝒆 𝑹𝒂𝒏𝒎𝒂 ½ 🐼😺🌍
+global.grupo_friki10 = "https://chat.whatsapp.com/KkanOPfYmn2DE0oErnxdKf" // 🌍 👒⛩️ 𝑭𝒂𝒏𝒔 𝒅𝒆 𝑶𝒏𝒆 𝒑𝒊𝒆𝒄𝒆 ⛩️👒🌍
+global.grupo_friki11 = "https://chat.whatsapp.com/CIsIuOpJoEX72KsLMHpMHz" // 🌍🍥🍜 𝑭𝒂𝒏𝒔 𝒅𝒆 𝑵𝒂𝒓𝒖𝒕𝒐 🍜🍥🌍
+global.grupo_friki12 = "https://chat.whatsapp.com/Jl57mUSc0Nr0DxdqcB74hI" // 𝗯𝗼𝗹𝗮 𝗱𝗲 𝗱𝗿𝗮𝗰 𝗲𝗻 𝗰𝗮𝘁𝗮𝗹𝗮
+global.grupo_friki13 = "https://chat.whatsapp.com/LZbQBENMeIjEv7HE1DM32v" // 🌍🤖 𝑫𝒆𝒔𝒄𝒂𝒓𝒈𝒂 𝒃𝒐𝒕𝒔 - 𝑹𝒆𝒅𝒆𝒔 𝒔𝒐𝒄𝒊𝒂𝒍𝒆𝒔 2 🤖🌍
+global.grupo_friki14 = "https://chat.whatsapp.com/HHqnpkNB3pRCpekFTzQTne" // 💥💣ARCANE💣💥
+global.grupo_friki15 = "https://chat.whatsapp.com/J644aEYo8BXITv6ZOLyYpi" // 𝗕𝗼𝗹𝗮 𝗱𝗼 𝗱𝗿𝗮𝗴𝗼𝗻
+global.grupo_friki16 = "https://chat.whatsapp.com/IhWTZM7Wu36AiiXE7mfXak" // 𝗕𝗼𝗹𝗮 𝗱𝗲 𝗗𝗿𝗮𝗰 𝗲𝗻 𝗩𝗮𝗹𝗲𝗻𝗰𝗶𝗮
+ 
+
+// canales Dragon Ball 
+global.canal_telegram1 = "https://miniurl.cl/DragonBallAnime" // 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹, 𝗭, 𝗭 𝗞𝗮𝗶, 𝘀ú𝗽𝗲𝗿, 𝗚𝗧 🇪🇸
+global.canal_telegram2 = "https://miniurl.cl/BolaDeDracValencia" // 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹 𝗩𝗮𝗹𝗲𝗻𝗰𝗶𝗮𝗻𝗼
+global.canal_telegram3 = "https://miniurl.cl/DragonBallSinCensura" // 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹 🇪🇸 𝘀𝗶𝗻 "𝗰𝗲𝗻𝘀𝘂𝗿𝗮"
+global.canal_telegram4 = "https://miniurl.cl/BolaDeDracCatala" // 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹 𝗖𝗮𝘁𝗮𝗹𝗮𝗻
+global.canal_telegram5 = "https://miniurl.cl/BolaDeDracCatalanRespaldo" // 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹 𝗖𝗮𝘁𝗮𝗹𝗮𝗻 𝗿𝗲𝘀𝗽𝗮𝗹𝗱𝗼 
+global.canal_telegram6 = "https://miniurl.cl/BolaDeDracTV3" // 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹 𝗧𝗩𝟯 
+global.canal_telegram7 = "https://miniurl.cl/AsBolasMaxica" // 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹 𝗚𝗮𝗹𝗹𝗲𝗴𝗼 
+global.canal_telegram8 = "https://miniurl.cl/DragoiBola" // 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹 𝗘𝘂𝘀𝗸𝗲𝗿𝗮  
+global.canal_telegram9 = "https://miniurl.cl/SuperDragonBallHeroes" // 𝗦𝘂𝗽𝗲𝗿 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹 𝗛𝗲𝗿𝗼 🇪🇸
+global.canal_telegram10 = "https://miniurl.cl/DragonBallManga" // 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹 𝗠𝗮𝗻𝗴𝗮 🇪🇸
+global.canal_telegram11 = "https://miniurl.cl/DragonBallLatino" // 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹, 𝗭, 𝗭 𝗞𝗮𝗶, 𝘀ú𝗽𝗲𝗿, 𝗚𝗧 🇲🇽
+global.canal_telegram12 = "https://miniurl.cl/DragonBallSub" // 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹 𝗦𝘂𝗯 🇪🇸
+global.canal_telegram13 = "https://miniurl.cl/DragonBallDaimaSub" // 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹 𝗗𝗮𝗶𝗺𝗮 𝗦𝘂𝗯 🇪🇸
+global.canal_telegram14 = "https://miniurl.cl/DragonBallMusica" // 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹 𝗠𝘂𝘀𝗶𝗰𝗮
+global.canal_telegram15 = "https://miniurl.cl/PeliculasDragonBall" // 𝗣𝗲𝗹𝗶𝗰𝘂𝗹𝗮 𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗮𝗹𝗹
+
+// Grupos Facebook 
+global.grupo_facebook1 = "https://www.facebook.com/groups/667472657700009/" // Fans de dragón ball Z kai castellano de España
+global.grupo_facebook2 = "https://www.facebook.com/groups/207704962082606/" // Alíen VS depredador español castellano
+global.grupo_facebook3 = "https://www.facebook.com/groups/213867644714527/" // Start trek wars Español castellano
+global.grupo_facebook4 = "https://www.facebook.com/groups/649206827024362/" // Los caballeros del zodiaco Español castellano
+global.grupo_facebook5 = "https://www.facebook.com/groups/5608883022528456/" // El take doblaje castellano de España
+global.grupo_facebook6 = "https://www.facebook.com/groups/241942921170061/" // Fans de Dragon Ball Kakumei
+global.grupo_facebook7 = "https://www.facebook.com/groups/258678936914911/" // Nostalfan retro 80 y 90
+global.grupo_facebook8 = "https://www.facebook.com/groups/340798961463741/" // 𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕃𝕖𝕘𝕖𝕟𝕕𝕤
+global.grupo_facebook9 = "https://www.facebook.com/groups/356587100017666/" // Vuestro grupo de WhatsApp 
+global.grupo_facebook10 = "https://www.facebook.com/groups/586945682849926/" // Mis grupos de WhatsApp 
+global.grupo_facebook11 = "https://www.facebook.com/groups/1359091327905091/" // Oliver y Bengi 
+global.grupo_facebook12 = "https://www.facebook.com/groups/1661631510843730/" // Grupos de dragon ball WhatsApp 
+global.grupo_facebook13 = "https://www.facebook.com/groups/5238056872988769/" // Anime de los 80,90 en castellano de España 
+global.grupo_facebook14 = "https://www.facebook.com/groups/5608883022528456/" // Amigos del doblaje de la comunidad en general 
+global.grupo_facebook15 = "https://www.facebook.com/groups/5886689541350122/" // 🐉🐲亀𝔻𝕣𝕒𝕘𝕠𝕟 𝔹𝕒𝕝𝕝 𝕕𝕚𝕓𝕦𝕛𝕠𝕤亀🐲🐉
+global.grupo_facebook16 = "https://www.facebook.com/groups/992399634839160/" // Fans de dragon ball Z Kai 
+global.grupo_facebook17 = "https://www.facebook.com/groups/1987921121395900/" // Fans de la bola de drac en catala
+global.grupo_facebook18 = "https://www.facebook.com/groups/539707171183186/" // Fans de la bola de drac en Valencia
+global.grupo_facebook19 = "https://www.facebook.com/groups/3796913187085249/" // Dragon Ball Daima
+global.grupo_facebook20 = "https://www.facebook.com/groups/958885421318898/" // Fans de Dragom Ball AF
+global.grupo_facebook21 = "https://www.facebook.com/groups/2568850750089805/" // Fans de Super Dragon Ball Heroes
+global.grupo_facebook22 = "https://www.facebook.com/groups/213867644714527/" // Star Trek Wars comunidad fans
+global.grupo_facebook23 = "https://www.facebook.com/groups/208832278817260/" // Películas y series de ciencia ficcion y terror
+global.grupo_facebook24 = "https://www.facebook.com/groups/182950561309109/" // DC VS Marvel comunidad de fans
+global.grupo_facebook25 = "https://www.facebook.com/groups/5608883022528456/" // Amigos del doblaje de la comunidad en general 
+
+
+global.grupo_collab1 = "https://chat.whatsapp.com/BR4uITM6xeR8GAd8b2VXN6"
+global.grupo_collab2 = "https://chat.whatsapp.com/BR4uITM6xeR8GAd8b2VXN6"
+global.grupo_collab3 = "https://chat.whatsapp.com/BR4uITM6xeR8GAd8b2VXN6"
+global.grupo_collab4 = "https://chat.whatsapp.com/BR4uITM6xeR8GAd8b2VXN6"
